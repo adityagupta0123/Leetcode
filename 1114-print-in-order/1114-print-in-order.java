@@ -1,5 +1,5 @@
 class Foo {
-    //the code starts
+    //the code starts 
     Semaphore semaphore1;
     public Foo() {
         semaphore1 = new Semaphore(0);
