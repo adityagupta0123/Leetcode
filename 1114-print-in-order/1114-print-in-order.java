@@ -23,3 +23,4 @@ class Foo {
         printThird.run();
     }
 }
+// the code ends
